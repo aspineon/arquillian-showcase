@@ -59,7 +59,7 @@
     <!-- Arquillian Core -->
     <org.jboss.arquillian.version>1.1.6.Final</org.jboss.arquillian.version>
 
-    <version.junit>4.12</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.maven.animal.sniffer>1.13</version.maven.animal.sniffer>
     <version.signature>1.1</version.signature>
 

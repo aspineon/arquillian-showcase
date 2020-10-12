@@ -64,7 +64,7 @@
     <version.arquillian.core>1.1.6.Final</version.arquillian.core>
 
     <!-- Other versions -->
-    <version.junit>4.12</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.mockito>1.10.19</version.mockito>
     <version.hamcrest>1.0.0.0</version.hamcrest>
     <version.maven.animal.sniffer>1.13</version.maven.animal.sniffer>
